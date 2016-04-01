@@ -100,6 +100,8 @@ If the Infrastructure team does not have the bandwidth to support Gerrit, Crucib
 * John Lynch (Cloudera)
 * Kevin Odell (Rocana)
 * Sandy Ryza (Clover Health)
+* John Darrah (Cloudera)
+* Gwen Shapira (Confluent)
 
 ##Affiliations
 
