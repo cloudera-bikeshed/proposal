@@ -13,16 +13,16 @@ Despite the abundance of tools for group collaboration already in adoption, the 
 
 ##Initial Goals
 Our initial goals are as follows:
-*Determine if Bikeshed is actually the name of the project.
-*Discuss color palettes for the initial website.
-*Discuss web frameworks for the site.
-*Refine the voting.
-*Talk more about the name of the project
-*Transfer source code, documentation and associated artifacts to the ASF.
-*Draw a picture of the logo in black and white, apply a photoshop filter from early 2000
-*Grow the user and developer communities.
-*Design the initial website, including color and layout.
-*Current Status
+* Discuss color palettes for the initial website.
+* Determine if Bikeshed is actually the name of the project.
+* Discuss web frameworks for the site.
+* Refine the voting.
+* Talk more about the name of the project
+* Transfer source code, documentation and associated artifacts to the ASF.
+* Draw a picture of the logo in black and white, apply a photoshop filter from early 2000
+* Grow the user and developer communities.
+* Design the initial website, including color and layout.
+* Current Status
 
 Bikeshed is currently under discussion for the correct licensing model, though we are close to deciding on Apache.  There are numerous logo sources available in MS Paint on the founders laptops. All code reviews must be done on public instances of the Gerrit, Crucible, and GitLab.  The reviews must then be signed in triplicate with wet ink from all committers before a discussion to include the patch upstream can begin. Before a patch is committed, it must pass a suite of pre-commit software and grammar tests.  These tests are currently being voted on where to be hosted. One of our initial goals will be to work with the ASF Infrastructure team to find a way to run these tests in an acceptable way on publicly accessible machines.
 
