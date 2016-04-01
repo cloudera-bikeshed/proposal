@@ -5,7 +5,8 @@ The purpose of the Bikeshed project is to determine the technical direction, log
 
 ##Proposal
 We propose to contribute Bikeshed and associated artifacts (whatever they turn out to be) to the Apache Software Foundation with the intent of forming a productive, bureaucratic and open community around Bikeshed through continued and exhaustive discussion.
-Background
+
+##Background
 Since the beginning of software design, there has been a need for individuals to offer strong opinions on key features related to the project. These discussions revolve around naming objects, and logo designs, although the Bikeshed project hopes to grow to encompass naming modules, website colors, error messages and renaming objects. Bikeshed exists to provide structure and rigor around these crucially trivial discussions, whether they be in-person, in a JIRA or on the mailing list. Typically, as projects grow in complexity, the amount of meaningful feedback on larger features is minimal, however everyone seems to have an opinion on relatively meaningless design decisions. Little or no knowledge of systems is required.
 
 ##Rationale
@@ -24,7 +25,7 @@ Our initial goals are as follows:
 * Design the initial website, including color and layout.
 * Current Status
 
-Bikeshed is currently under discussion for the correct licensing model, though we are close to deciding on Apache.  There are numerous logo sources available in MS Paint on the founders laptops. All code reviews must be done on public instances of the Gerrit, Crucible, and GitLab.  The reviews must then be signed in triplicate with wet ink from all committers before a discussion to include the patch upstream can begin. Before a patch is committed, it must pass a suite of pre-commit software and grammar tests.  These tests are currently being voted on where to be hosted. One of our initial goals will be to work with the ASF Infrastructure team to find a way to run these tests in an acceptable way on publicly accessible machines.
+Bikeshed is currently under discussion for the correct licensing model, though we are close to deciding on Apache.  There are numerous logo sources available in MS Paint on the founders laptops. All code reviews must be done on public instances of the Gerrit, Crucible, and GitLab (Note: There is an ongoing discussion about changing the review process and tools). The reviews must then be signed in triplicate with wet ink from all committers before a discussion to include the patch upstream can begin. Before a patch is committed, it must pass a suite of pre-commit software and grammar tests.  These tests are currently being voted on where to be hosted. One of our initial goals will be to work with the ASF Infrastructure team to find a way to run these tests in an acceptable way on publicly accessible machines.
 
 ##Meritocracy
 We understand the central importance of meritocracy to the Apache Way. We will work to establish a welcoming, fair and meritocratic community, in part by expanding the set of committers on the project. Although Bikeshed’s committer list will initially be dominated by members of the Apache Community and the members of the Barista community, we look forward to growing a rich user and developer community.
@@ -53,7 +54,7 @@ Although many (but not all) of the committers have agreed that Bikeshed is the a
 There have been many spirited discussions amongst the committers about the proper font to be used documentation. These discussions were the direct result of the still unresolved discussions about the font to be used for the project logo (see above). The discussion of this topic has become so contentious that one faction has threatened to fork BikeShed (or bikeShed or bikeSHED) and create Apache YakShave in response to this impasse.    
 
 ##Homogeneous Developers
-The initial committers are employees of Cloudera.
+The initial committers are mostly employees of Cloudera.
 The project has received some contributions from developers outside of Cloudera, from individuals belonging to organizations such as Starbucks and Initech Software, from the fun-employed, and from psychology and philosophy students using Bikeshed to advance their understanding of due process on the internet. The project attracted an active user community as well. We hope to continue to encourage lack luster contributions from these developers and community members and grow them into committers after they have had time to continue their contributions.
 
 ##Reliance on Over-Salaried Developers
@@ -63,9 +64,12 @@ Many of Bikeshed’s initial set of committers work full-time on Bikeshed, and a
 Although we hope that Bikeshed benefits from the Apache Brand, any reflected goodwill to Cloudera as the contributing entity is not the goal of establishing Bikeshed as an Apache project. We will work with the Incubator PMC and the PRC to ensure that the Apache Brand is mostly respected.
 
 ##Documentation
-* Chemex Coffee Brewing - http://www.chemexcoffeemaker.com/brewing-product-care-instructions
-* Law of Trivality - https://en.wikipedia.org/wiki/Law_of_triviality
-* Flux Capacitor - http://backtothefuture.wikia.com/wiki/Flux_capacitor
+* Chemex Coffee Brewing - ([link](http://www.chemexcoffeemaker.com/brewing-product-care-instructions))
+* Law of Trivality - ([link](https://en.wikipedia.org/wiki/Law_of_triviality))
+* Flux Capacitor - ([link](http://backtothefuture.wikia.com/wiki/Flux_capacitor))
+* Yak Shaving - ([link](https://en.wiktionary.org/wiki/yak_shaving))
+* Drain The Swamp - ([link](https://en.wiktionary.org/wiki/forget,_when_up_to_one%27s_neck_in_alligators,_that_the_mission_is_to_drain_the_swamp))
+* On the Importance of Color - ([link](https://en.wikipedia.org/wiki/The_dress_(viral_phenomenon)))
 
 ##Initial Source
 Bikeshed’s initial source contribution will come from http://github.com/cloudera-bikeshed/.
@@ -87,12 +91,7 @@ JIRA instance
 
 JIRA project BIKESHED(BIKESHED or BKSHD)
 
-Other Resources
-We hope to continue using Gerrit, Crucible, and GitLab for our code review and commit workflow. We are involved with discussions that the Kudu team at Cloudera have been having with Jake Farrell to start discussions on how Bikeshed can help. We know that several other ASF projects or podlings are also interested in our multi-software review process.
-If the Infrastructure team does not have the bandwidth to support Gerrit, Crucible, and GitLab, we will continue to support our own instance of Gerrit, Crucible, and GitLab for Bikeshed, and make the necessary integrations such that commits are properly authenticated and maintain sufficient provenance to uphold the ASF standards (e.g. via the solution adopted by the AsterixDB podling).
-
 ##Initial Committers
-
 
 * Jeff Holoman (Cloudera)
 * Grant Henke (Cloudera)
