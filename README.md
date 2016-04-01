@@ -64,10 +64,12 @@ Many of Bikeshed’s initial set of committers work full-time on Bikeshed, and a
 Although we hope that Bikeshed benefits from the Apache Brand, any reflected goodwill to Cloudera as the contributing entity is not the goal of establishing Bikeshed as an Apache project. We will work with the Incubator PMC and the PRC to ensure that the Apache Brand is mostly respected.
 
 ##Documentation
-* Chemex Coffee Brewing - http://www.chemexcoffeemaker.com/brewing-product-care-instructions
-* Law of Trivality - https://en.wikipedia.org/wiki/Law_of_triviality
-* Flux Capacitor - http://backtothefuture.wikia.com/wiki/Flux_capacitor
-* On the Importance of Color - https://en.wikipedia.org/wiki/The_dress_(viral_phenomenon)
+* Chemex Coffee Brewing - ([link](http://www.chemexcoffeemaker.com/brewing-product-care-instructions))
+* Law of Trivality - ([link](https://en.wikipedia.org/wiki/Law_of_triviality))
+* Flux Capacitor - ([link](http://backtothefuture.wikia.com/wiki/Flux_capacitor))
+* Yak Shaving - ([link](https://en.wiktionary.org/wiki/yak_shaving))
+* Drain The Swamp - ([link](https://en.wiktionary.org/wiki/forget,_when_up_to_one%27s_neck_in_alligators,_that_the_mission_is_to_drain_the_swamp))
+* On the Importance of Color - ([link](https://en.wikipedia.org/wiki/The_dress_(viral_phenomenon)))
 
 ##Initial Source
 Bikeshed’s initial source contribution will come from http://github.com/cloudera-bikeshed/.
